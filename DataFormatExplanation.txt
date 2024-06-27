@@ -1,5 +1,5 @@
 train.txt
-<user id>|<numbers of rating items>
+<user id>|<numbers of rating items> // B3
 <item id>   <score>
 test.txt
 <user id>|<numbers of rating items>
