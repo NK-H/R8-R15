@@ -1,4 +1,4 @@
-train.txt
+train.txt // C4
 <user id>|<numbers of rating items>
 <item id>   <score>
 test.txt
