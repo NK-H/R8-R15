@@ -6,3 +6,4 @@ test.txt
 <item id>
 item.txt
 <item id>|<attribute_1>|<attribute_2>('None' means this item is not belong to any of attribute_1/2)
+// B3
